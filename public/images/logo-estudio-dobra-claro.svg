@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="150" viewBox="0 0 620 150" role="img" aria-labelledby="title desc">
+  <title id="title">Estúdio Dobra — versão clara</title><desc id="desc">Versão clara da marca conceitual Estúdio Dobra.</desc>
+  <g fill="none" stroke="#f2eee7" stroke-width="5">
+    <path d="M22 18h51c30 0 53 23 53 53s-23 53-53 53H22V18Z"/>
+    <path d="M47 43v56h26c16 0 28-12 28-28S89 43 73 43H47Z"/>
+  </g>
+  <text x="151" y="61" fill="#f2eee7" font-family="Instrument Sans, Arial, sans-serif" font-size="25" letter-spacing="4">ESTÚDIO</text>
+  <text x="147" y="121" fill="#d1a2a5" font-family="Syne, Arial Black, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">DOBRA</text>
+</svg>

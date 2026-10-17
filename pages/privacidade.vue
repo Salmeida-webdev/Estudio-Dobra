@@ -1,0 +1,7 @@
+<script setup lang="ts">
+useSeoMeta({ title: 'Privacidade — Estúdio Dobra', description: 'Como os dados do formulário demonstrativo são tratados.' })
+</script>
+
+<template>
+  <article class="privacy-page section-wrap"><div class="page-intro"><p class="eyebrow">INFORMAÇÃO / PRIVACIDADE</p><h1>Seus dados<br><em>em primeiro plano.</em></h1><p>Esta página descreve o funcionamento do formulário demonstrativo do Estúdio Dobra.</p></div><div class="privacy-copy"><h2>O que o formulário faz</h2><p>Os campos são usados no seu próprio navegador para montar uma mensagem. Ao selecionar “Continuar no WhatsApp”, o site abre o serviço do WhatsApp com o texto preenchido para você revisar e enviar.</p><h2>O que este site armazena</h2><p>Este site não possui backend, banco de dados, analytics ou ferramenta de rastreamento. As informações digitadas não são enviadas nem guardadas pelo Estúdio Dobra.</p><h2>Serviços externos</h2><p>Ao seguir para o WhatsApp ou carregar as fontes hospedadas pelo Google Fonts, seu navegador se comunica diretamente com esses serviços, sujeitos às políticas próprias de cada provedor.</p><h2>Projeto demonstrativo</h2><p>O Estúdio Dobra é uma marca fictícia de portfólio. O contato exibido é demonstrativo e não representa um escritório real.</p><p class="concept-note">Texto informativo criado para esta demonstração; deve ser revisado caso o site passe a coletar dados reais.</p></div></article>
+</template>

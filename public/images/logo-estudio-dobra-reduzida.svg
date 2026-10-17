@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Símbolo do Estúdio Dobra</title>
+  <rect width="128" height="128" rx="64" fill="#f2eee7"/>
+  <g fill="none" stroke="#642434" stroke-width="6">
+    <path d="M25 22h42c25 0 44 19 44 42s-19 42-44 42H25V22Z"/>
+    <path d="M45 42v44h22c13 0 24-10 24-22S80 42 67 42H45Z"/>
+  </g>
+</svg>

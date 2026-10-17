@@ -1,0 +1,7 @@
+<script setup lang="ts">
+useSeoMeta({ title: 'Estúdio — Estúdio Dobra', description: 'Conheça os princípios conceituais do Estúdio Dobra, arquitetura e interiores.' })
+</script>
+
+<template>
+  <section class="studio-page section-wrap"><div class="page-intro"><p class="eyebrow">ESTÚDIO DOBRA / UMA PRÁTICA CONCEITUAL</p><h1>Menos gesto.<br><em>Mais intenção.</em></h1><p>O Estúdio Dobra é uma marca fictícia criada para demonstrar um projeto institucional de arquitetura e interiores.</p></div><div class="studio-spread"><div class="studio-photo"><img src="/images/sala-comum.webp" alt="Interior conceitual de estúdio de trabalho com mesa compartilhada e materiais claros" loading="lazy" width="1200" height="900"><span>IMAGEM CONCEITUAL · 02</span></div><div class="studio-copy"><span class="micro-label">NOSSA MANEIRA DE OLHAR</span><p class="studio-lead">A arquitetura pode começar pequena: numa circulação que flui, numa luz bem percebida, num balcão que acolhe.</p><p>Esta identidade e os textos apresentados são demonstrativos. Não correspondem a escritório, equipe ou profissionais reais. O site foi construído como peça de portfólio.</p><div class="studio-principles"><span><b>01</b> Escuta antes do desenho</span><span><b>02</b> Clareza nas decisões</span><span><b>03</b> Respeito à escala do lugar</span></div></div></div><div class="studio-signature"><span>ESTÚDIO DOBRA</span><span>ARQUITETURA QUE ENCONTRA FORMA NO COTIDIANO.</span><span>BRASIL · 2026</span></div></section>
+</template>
